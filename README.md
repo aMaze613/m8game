@@ -1,3 +1,1 @@
-# M8 UF3 Game
-
-Videogame made with Unity for the class M8 from the DAM2 course.
+DAM2 M8 - Videogame made with Unity - Mario Martín Carmona
